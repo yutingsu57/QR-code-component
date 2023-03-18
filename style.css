@@ -31,7 +31,7 @@ body {
     border-radius: .725rem;
 }
 
-.qr_card h2 {
+.qr_card h1 {
     color: var(--primary-clr-400);
 
 }
